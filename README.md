@@ -31,7 +31,7 @@ Add the below to your ~/.vimrc file:
     "autoread is to refresh any changes
     set autoread
     command F :exec '!~/.vim/u2py/format.py ' . expand("%")
-    command F :exec '!~/.vim/u2py/basic.py ' . expand("%")
+    command B :exec '!~/.vim/u2py/basic.py ' . expand("%")
     
 ## Use
 
