@@ -3,7 +3,7 @@ Vim and Universe Workflow
 
 Add keybindings to format and compile Basic programs directly from vim.
 
-I've also added my basic vimrc to github as well, the only thing of interest is that I automatically set syntax highlighting for any basic programs in BP or MPROCLIB.
+I've also added my basic ~/.vimrc and ~/.vim/ directory to github as well, the only thing of interest is that I automatically set syntax highlighting for any basic programs in BP or MPROCLIB.
 
 ## Requirements
 
