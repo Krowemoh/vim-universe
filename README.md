@@ -20,8 +20,8 @@ This could probably be improved where we can look at the path of the file and UV
     
     mkdir -p ~/.vim/u2py
     cd ~/.vim/u2py/
-    wget XXX
-    wget XXX
+    wget https://raw.githubusercontent.com/Krowemoh/vim-universe/master/u2py/format.py
+    wget https://raw.githubusercontent.com/Krowemoh/vim-universe/master/u2py/basic.py
     chmod +x format.py
     chmod +x basic.py
   
