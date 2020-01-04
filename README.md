@@ -7,7 +7,7 @@ I've also added my basic ~/.vimrc and ~/.vim/ directory to github as well, the o
 
 ## Requirements
 
-Feel free to take a peek at the python programs, all it does is cd into what it assumes/hopes is Universe account folder and then attempts to run a BASIC command.
+Feel free to take a peek at the python programs, all it does is cd into what it assumes/hopes is the Universe account folder and then attempts to run a BASIC command.
 
 This does mean however that you are editing the BASIC program in the folder it resides, and that it is one level deeper than the account.
 
