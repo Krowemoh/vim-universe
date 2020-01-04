@@ -9,11 +9,11 @@ I've also added my basic vimrc to github as well, the only thing of interest is 
 
 Feel free to take a peek at the python programs, all it does is cd into what it assumes/hopes is Universe account folder and then attempts to run a BASIC command.
 
-This does mean however that you are editting the BASIC program in the folder it resides, and that it is one level deeper than the account.
+This does mean however that you are editing the BASIC program in the folder it resides, and that it is one level deeper than the account.
 
-So you would be editing TEST.UNIVERSE in /home/ACCOUNT-NAME/BP where ACCOUNT-NAME is a Universe account.
+So you would be editing TEST.UNIVERSE sitting in /home/ACCOUNT-NAME/BP where ACCOUNT-NAME is a Universe account.
 
-This could probably be improved where we can look at paths and UV.ACCOUNT to LOGTO to the correct place to run the format and compile command.
+This could probably be improved where we can look at the path of the file and UV.ACCOUNT to LOGTO to the correct place but this was a quick utility taking advantage of the fact that we can script Universe behavior directly from Linux. 
 
 ## Installation
 
